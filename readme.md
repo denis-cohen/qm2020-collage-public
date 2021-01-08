@@ -14,7 +14,7 @@ challenges.
 One the one hand, online teaching makes it **harder for instructors to
 get to know their students**. To alleviate this problem, we asked our
 students to fill out this [short
-questionnaire](https://github.com/denis-cohen/blob/main/QM%202020%20Survey.pdf)
+questionnaire](https://github.com/denis-cohen/qm2020-collage-public/blob/master/QM%202020%20Survey.pdf)
 on our course page on the learning management system ILIAS and to attend
 our virtual office hours regularly.
 
@@ -31,7 +31,7 @@ This tool allowed participants to get to know each other and to find
 mutual interests with their fellow students in a fun and interactive way
 by swiping through fellow students profiles. This GitHub repository
 contains the
-[questionnaire](https://github.com/denis-cohen/blob/main/QM%202020%20Survey.pdf)
+[questionnaire](https://github.com/denis-cohen/qm2020-collage-public/blob/master/QM%202020%20Survey.pdf)
 for our ILIAS Survey, code for data processing and the soruce code of
 our ShinyApp. A demo of the App can be found on
 [shinyapps.io](https://denis-cohen.shinyapps.io/qm2020-collage-app/).

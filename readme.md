@@ -11,7 +11,7 @@ The COVID-19 pandemic has forced universities around the globe to switch
 from on-site teaching to online teaching. This comes with various
 challenges.
 
-One the one hand, online teaching makes it **harder for instructors to
+On the one hand, online teaching makes it **harder for instructors to
 get to know their students**. To alleviate this problem, we asked our
 students to fill out this [short
 questionnaire](https://github.com/denis-cohen/qm2020-collage-public/blob/master/QM%202020%20Survey.pdf)
@@ -20,7 +20,7 @@ our virtual office hours regularly.
 
 On the other hand, online teaching also makes it **harder for students
 to get to know each other** and to forge bonds for mutual academic and
-personal support. To alleviate this problem, we developed as twofold
+personal support. To alleviate this problem, we developed a twofold
 strategy. At the beginning of the semester, we asked students for their
 consent that we use some basic information (name, current and previous
 programs of study, academic interests, and profile pictures) from the
